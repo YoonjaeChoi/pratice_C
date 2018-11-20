@@ -2,5 +2,22 @@
 
 dd 삭제 
 yy 복사 
-p 붙여넣기 
+p 붙여넣기
+
+#include <stdio.h>
+
+
+int main ()
+{
+
+	pritnf("hello");
+
+
+
+
+
+	return 0;
+}
+
+
 
